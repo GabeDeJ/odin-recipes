@@ -1,0 +1,25 @@
+.title {
+    background-color: red;
+color: green;
+font-size: 36px;
+text-align: center;}
+
+ul {background-color: bisque;}
+
+.img {
+    height: auto;
+    width: 300px;
+}
+.heading {
+    background-color: green;
+    color: white;
+ 
+}
+h2 {
+    background-color: green;
+    color: white;
+
+}
+ol {
+    background-color: khaki;
+}
